@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4ba8b1c0-fe49-48d0-a410-a54f92aea9b3",
+    "userId": "786ba43e-ec18-4c0b-9f6e-3af99f854507",
+    "items": [
+      {
+        "productId": "4310a5bb-d253-4fd4-8e3e-e22c54b2fb60",
+        "quantity": 1
+      }
+    ],
+    "status": "Pending",
+    "createdAt": "2026-02-12T10:35:48.969Z",
+    "totalAmount": 5000
+  },
+  {
+    "id": "aabde37b-556d-4a1c-a95f-ec3637080f06",
+    "userId": "678434a5-f29f-4f64-92e4-e1ec24a58243",
+    "items": [
+      {
+        "productId": "3f0df8e2-0158-4913-a31e-65e5f1cf9f87",
+        "quantity": 1
+      }
+    ],
+    "status": "Pending",
+    "createdAt": "2026-02-12T10:48:25.763Z",
+    "totalAmount": 5000
+  }
+]

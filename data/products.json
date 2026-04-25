@@ -1,0 +1,539 @@
+[
+  {
+    "id": "foundation-01",
+    "name": "Forever 52 Professional Coverup Foundation",
+    "description": "Premium foundation with flawless coverage and long-lasting finish. Available in multiple shades for perfect skin tone matching.",
+    "price": 1800,
+    "originalPrice": 1800,
+    "category": "Foundation",
+    "imageUrl": "/cosmetics/3.png",
+    "images": ["/cosmetics/3.png", "/cosmetics/file_000000002a6471fd9b8d3874b6d33a37.png", "/cosmetics/file_0000000085ec71fda294fd08b98eaa01.png", "/cosmetics/file_00000000e3ac71f88cfb66ff5783c39b.png"],
+    "createdAt": "2026-02-17T12:00:00.000Z"
+  },
+  {
+    "id": "foundation-02",
+    "name": "Just Gold Foundation",
+    "description": "Luxurious gold-infused foundation for radiant, flawless coverage. Perfect for all skin tones.",
+    "price": 940,
+    "originalPrice": 940,
+    "category": "Foundation",
+    "imageUrl": "/just-gold-foundation/file_00000000b93871fdac86b06eccb2e20d (1).png",
+    "images": ["/just-gold-foundation/file_00000000b93871fdac86b06eccb2e20d (1).png", "/just-gold-foundation/file_00000000214471fd92ae06dc3d2a8e9.png", "/just-gold-foundation/file_0000000037f071fd8f89c2447cc78220.png", "/just-gold-foundation/file_00000000b2cc71fdb465bcd30a9a04aa.png"],
+    "createdAt": "2026-02-17T13:00:00.000Z"
+  },
+  {
+    "id": "ikonic-ct19",
+    "name": "Ikonic Professional Curling Tong CT-19",
+    "description": "Professional Ceramic Barrel with Extra Long 8\" Barrel. Tames Frizz And Static, Giving You Smoother, Shinier Curls With A Polished Finish. Ensures Complete Coverage For Maximum Hair Length.",
+    "price": 4000,
+    "originalPrice": 4000,
+    "category": "Beauty Machines",
+    "imageUrl": "/ikonic-curler-19/ChatGPT Image Apr 22, 2026, 03_40_42 PM.png",
+    "images": ["/ikonic-curler-19/ChatGPT Image Apr 22, 2026, 03_40_42 PM.png", "/ikonic-curler-19/ChatGPT Image Apr 22, 2026, 03_54_13 PM.png"],
+    "createdAt": "2026-04-22T10:00:00.000Z"
+  },
+  {
+    "id": "ikonic-ct22",
+    "name": "Ikonic Professional Curling Tong CT-22",
+    "description": "Professional Ceramic Barrel with Extra Long 8\" Barrel. Tames Frizz And Static, Giving You Smoother, Shinier Curls With A Polished Finish. Ensures Complete Coverage For Maximum Hair Length.",
+    "price": 4000,
+    "originalPrice": 4000,
+    "category": "Beauty Machines",
+    "imageUrl": "/ikonic-curler-22/ChatGPT Image Apr 22, 2026, 03_10_59 PM.png",
+    "images": ["/ikonic-curler-22/ChatGPT Image Apr 22, 2026, 03_10_59 PM.png", "/ikonic-curler-22/ChatGPT Image Apr 22, 2026, 03_33_55 PM.png"],
+    "createdAt": "2026-04-22T11:00:00.000Z"
+  },
+  {
+    "id": "ikonic-ct32",
+    "name": "Ikonic Professional Curling Tong CT-32",
+    "description": "Professional Heat Up Curling Tong with Ceramic Shine-Infused Barrel and Heat Ready Indicator System for perfect curls every time.",
+    "price": 4500,
+    "originalPrice": 4500,
+    "category": "Beauty Machines",
+    "imageUrl": "/ikonic-curler-32/ChatGPT Image Apr 22, 2026, 03_56_01 PM.png",
+    "images": ["/ikonic-curler-32/ChatGPT Image Apr 22, 2026, 03_56_01 PM.png", "/ikonic-curler-32/ChatGPT Image Apr 22, 2026, 03_59_25 PM.png"],
+    "createdAt": "2026-04-22T12:00:00.000Z"
+  },
+  {
+    "id": "hnk-magic-wand",
+    "name": "HNK Hot Wand 10mm",
+    "description": "HNK Hot Wand 10mm for perfect Curls & Waves. Features Cool Settings, Swivel cord and Auto Shut Off for safe styling. 2.5m cord length.",
+    "price": 3700,
+    "originalPrice": 4150,
+    "category": "Beauty Machines",
+    "imageUrl": "/hnk-magic-wand/ChatGPT Image Apr 22, 2026, 10_08_26 PM.png",
+    "images": ["/hnk-magic-wand/ChatGPT Image Apr 22, 2026, 10_08_26 PM.png", "/hnk-magic-wand/ChatGPT Image Apr 22, 2026, 10_08_31 PM.png"],
+    "createdAt": "2026-04-22T13:00:00.000Z"
+  },
+  {
+    "id": "hnk-twist-curler",
+    "name": "HNK Twist Curling Tong",
+    "description": "HNK 360° Rotating Rosegold Twist Curling Tong with Fast Heat Up, Auto Barrel Surface and Auto Off feature for effortless curls.",
+    "price": 3800,
+    "originalPrice": 4750,
+    "category": "Beauty Machines",
+    "imageUrl": "/hnk-twist-curler/ChatGPT Image Apr 22, 2026, 06_07_30 PM.png",
+    "images": ["/hnk-twist-curler/ChatGPT Image Apr 22, 2026, 06_07_30 PM.png", "/hnk-twist-curler/ChatGPT Image Apr 22, 2026, 10_07_14 PM.png", "/hnk-twist-curler/ChatGPT Image Apr 22, 2026, 10_07_55 PM.png"],
+    "createdAt": "2026-04-22T14:00:00.000Z"
+  },
+  {
+    "id": "auburn-straightener",
+    "name": "Auburn Ikonic Hair Straightener",
+    "description": "Auburn IKONIC Hair Straightener delivers sleek, salon-quality styling at home with adjustable heat settings and smooth glide plates. Fast heating and effortless use leaves your hair silky, shiny, and frizz-free in minutes.",
+    "price": 4200,
+    "originalPrice": 5250,
+    "category": "Beauty Machines",
+    "imageUrl": "/auburn-straightener/ChatGPT Image Apr 22, 2026, 10_08_04 PM.png",
+    "images": ["/auburn-straightener/ChatGPT Image Apr 22, 2026, 10_08_04 PM.png", "/auburn-straightener/ChatGPT Image Apr 22, 2026, 10_08_16 PM.png"],
+    "createdAt": "2026-04-22T15:00:00.000Z"
+  },
+  {
+    "id": "ikonic-crimper",
+    "name": "Ikonic Professional Slim Titanium Crimper",
+    "description": "Ikonic Professional Slim Titanium Crimper with Nano Titanium Technology. Adjustable temperature range from 80°C to 230°C. Emits Far-Infrared Heat that is gentle on hair leaving it shiny and glossy.",
+    "price": 4800,
+    "originalPrice": 6000,
+    "category": "Beauty Machines",
+    "imageUrl": "/ikonic-crimper/ChatGPT Image Apr 22, 2026, 10_08_46 PM.png",
+    "images": ["/ikonic-crimper/ChatGPT Image Apr 22, 2026, 10_08_46 PM.png", "/ikonic-crimper/ChatGPT Image Apr 22, 2026, 10_08_50 PM.png", "/ikonic-crimper/ChatGPT Image Apr 22, 2026, 10_08_58 PM.png"],
+    "createdAt": "2026-04-22T16:00:00.000Z"
+  },
+  {
+    "id": "ikonic-s3",
+    "name": "Ikonic S3+ Ceramic Hair Iron",
+    "description": "Ikonic Professional S3+ Ceramic Hair Iron with LED Temperature Display and 1\" Slim Ceramic Floating Plates. Adjustable range from 110°C to 235°C for precise heat control and smooth even styling.",
+    "price": 4200,
+    "originalPrice": 5250,
+    "category": "Beauty Machines",
+    "imageUrl": "/ikonic-s3/ChatGPT Image Apr 22, 2026, 10_09_03 PM.png",
+    "images": ["/ikonic-s3/ChatGPT Image Apr 22, 2026, 10_09_03 PM.png", "/ikonic-s3/ChatGPT Image Apr 22, 2026, 10_09_15 PM.png"],
+    "createdAt": "2026-04-22T17:00:00.000Z"
+  },
+  {
+    "id": "ikonic-pro",
+    "name": "Ikonic Pro Straight Hair Iron",
+    "description": "Ikonic Professional Pro Straight Hair Iron ideal for chemical treatments. Floating and extra-long plates ensure perfect alignment and even heat dispersion for efficient styling.",
+    "price": 4800,
+    "originalPrice": 6000,
+    "category": "Beauty Machines",
+    "imageUrl": "/ikonic-pro/ChatGPT Image Apr 22, 2026, 10_08_54 PM.png",
+    "images": ["/ikonic-pro/ChatGPT Image Apr 22, 2026, 10_08_54 PM.png", "/ikonic-pro/ChatGPT Image Apr 22, 2026, 10_09_08 PM.png", "/ikonic-pro/ChatGPT Image Apr 22, 2026, 10_09_20 PM.png"],
+    "createdAt": "2026-04-22T18:00:00.000Z"
+  },
+  {
+    "id": "vg-crimper",
+    "name": "V&G V22 Professional Hair Crimper",
+    "description": "V&G V22 Hair Crimper delivers bold, defined texture with smooth ceramic crimp plates that ensure even heat and frizz-free results. Fast styling and long-lasting volume with professional salon-finish look.",
+    "price": 1699,
+    "originalPrice": 2500,
+    "category": "Beauty Machines",
+    "imageUrl": "/vg-crimper/ChatGPT Image Apr 22, 2026, 10_08_36 PM.png",
+    "images": ["/vg-crimper/ChatGPT Image Apr 22, 2026, 10_08_36 PM.png", "/vg-crimper/ChatGPT Image Apr 23, 2026, 09_45_03 PM.png"],
+    "createdAt": "2026-04-22T19:00:00.000Z"
+  },
+  {
+    "id": "vg-straightener",
+    "name": "V&G V22 Professional Hair Straightener",
+    "description": "V&G V22 Professional Hair Straightener combines precision heat technology with sleek ceramic plates to deliver ultra-smooth, frizz-free results in a single glide. Polished salon-quality finish that lasts.",
+    "price": 1400,
+    "originalPrice": 1999,
+    "category": "Beauty Machines",
+    "imageUrl": "/vg-straightener/ChatGPT Image Apr 22, 2026, 10_09_41 PM.png",
+    "images": ["/vg-straightener/ChatGPT Image Apr 22, 2026, 10_09_41 PM.png", "/vg-straightener/ChatGPT Image Apr 22, 2026, 10_09_45 PM.png"],
+    "createdAt": "2026-04-22T20:00:00.000Z"
+  },
+  {
+    "id": "vg-509",
+    "name": "VGR V-509 Professional Hair Straightener",
+    "description": "VGR V-509 Professional Hair Straightener with Uniform Heat Technology. 28mm wide plates, LED display, 360° swivel power cord. Temperature range 300°F to max 450°F for perfect styling.",
+    "price": 3541,
+    "originalPrice": 4000,
+    "category": "Beauty Machines",
+    "imageUrl": "/vg-509/ChatGPT Image Apr 22, 2026, 10_09_24 PM.png",
+    "images": ["/vg-509/ChatGPT Image Apr 22, 2026, 10_09_24 PM.png", "/vg-509/ChatGPT Image Apr 22, 2026, 10_09_29 PM.png"],
+    "createdAt": "2026-04-22T21:00:00.000Z"
+  },
+  {
+    "id": "bag-coco-01",
+    "name": "COCO Shoulder Bag",
+    "description": "Crafted from premium PU leather with a smooth, refined finish. Featuring a sleek flap design and compact structure, it offers elegant style with practical storage—perfect for effortless everyday sophistication.",
+    "price": 1199,
+    "originalPrice": 1499,
+    "category": "Bags",
+    "imageUrl": "/bags/coco-premium-handbag/ChatGPT Image Apr 23, 2026, 07_42_05 PM.png",
+    "images": [
+      "/bags/coco-premium-handbag/ChatGPT Image Apr 23, 2026, 07_42_05 PM.png",
+      "/bags/coco-premium-handbag/ChatGPT Image Apr 23, 2026, 07_42_19 PM.png",
+      "/bags/coco-premium-handbag/ChatGPT Image Apr 23, 2026, 11_09_34 PM.png"
+    ],
+    "variants": [
+      { "color": "Black", "image": "/bags/coco-premium-handbag/ChatGPT Image Apr 23, 2026, 07_42_05 PM.png", "price": 1199, "originalPrice": 1499 },
+      { "color": "White", "image": "/bags/coco-premium-handbag/ChatGPT Image Apr 23, 2026, 11_09_34 PM.png", "price": 1199, "originalPrice": 1499 }
+    ],
+    "createdAt": "2026-04-23T12:00:00.000Z"
+  },
+  {
+    "id": "bag-moshenno-01",
+    "name": "Mosheno Statement Handbag",
+    "description": "Crafted from premium PU leather with a textured vintage finish. Featuring bold metal badge accents, a decorative ring lock, and chain detailing, it blends edgy fashion with everyday functionality—perfect for making a standout style statement.",
+    "price": 1600,
+    "originalPrice": 1600,
+    "category": "Bags",
+    "imageUrl": "/bags/moshenno-luxury-tote/ChatGPT Image Apr 23, 2026, 07_42_58 PM.png",
+    "images": [
+      "/bags/moshenno-luxury-tote/ChatGPT Image Apr 23, 2026, 07_42_58 PM.png",
+      "/bags/moshenno-luxury-tote/ChatGPT Image Apr 23, 2026, 07_43_06 PM.png"
+    ],
+    "variants": [
+      { "color": "Vintage Black", "image": "/bags/moshenno-luxury-tote/ChatGPT Image Apr 23, 2026, 07_42_58 PM.png", "price": 1600, "originalPrice": 1600 }
+    ],
+    "createdAt": "2026-04-23T12:01:00.000Z"
+  },
+  {
+    "id": "bag-polo-01",
+    "name": "POLO Handbag",
+    "description": "Blends bold elegance with everyday practicality. Crafted with a sleek, structured design and smooth finish, it offers spacious storage and durable comfort—making it the perfect statement piece for both daily use and special outings.",
+    "price": 1499,
+    "originalPrice": 1899,
+    "category": "Bags",
+    "imageUrl": "/bags/polo-classic-satchel/ChatGPT Image Apr 23, 2026, 10_10_48 PM.png",
+    "images": [
+      "/bags/polo-classic-satchel/ChatGPT Image Apr 23, 2026, 10_10_48 PM.png",
+      "/bags/polo-classic-satchel/ChatGPT Image Apr 23, 2026, 07_43_13 PM.png",
+      "/bags/polo-classic-satchel/ChatGPT Image Apr 23, 2026, 07_43_17 PM.png"
+    ],
+    "variants": [
+      { "color": "Classic Red", "image": "/bags/polo-classic-satchel/ChatGPT Image Apr 23, 2026, 10_10_48 PM.png", "price": 1499, "originalPrice": 1899 }
+    ],
+    "createdAt": "2026-04-23T12:02:00.000Z"
+  },
+  {
+    "id": "bag-xd-01",
+    "name": "POLO Professional Handbag",
+    "description": "Blends bold elegance with everyday practicality. Crafted from high-quality synthetic leather (PU) with a smooth finish, it features a structured design, durable stitching, and sturdy handles for long-lasting use. Spacious and stylish, it’s the perfect statement piece for daily wear or special occasions.",
+    "price": 1099,
+    "originalPrice": 1499,
+    "category": "Bags",
+    "imageUrl": "/bags/xd-urban-backpack/ChatGPT Image Apr 23, 2026, 07_38_42 PM.png",
+    "images": [
+      "/bags/xd-urban-backpack/ChatGPT Image Apr 23, 2026, 07_38_42 PM.png",
+      "/bags/xd-urban-backpack/ChatGPT Image Apr 23, 2026, 07_38_18 PM.png"
+    ],
+    "variants": [
+      { "color": "Professional Black", "image": "/bags/xd-urban-backpack/ChatGPT Image Apr 23, 2026, 07_38_42 PM.png", "price": 1099, "originalPrice": 1499 }
+    ],
+    "createdAt": "2026-04-23T12:03:00.000Z"
+  },
+  {
+    "id": "bag-tt-01",
+    "name": "CLOUDMES Paris Handbag",
+    "description": "Crafted from premium PU leather with a soft textured finish. Elegant, spacious, and perfect for everyday sophistication. Black and white aesthetic.",
+    "price": 1199,
+    "originalPrice": 1499,
+    "category": "Bags",
+    "imageUrl": "/bags/tt-chic-crossbody/ChatGPT Image Apr 23, 2026, 07_43_27 PM.png",
+    "images": [
+      "/bags/tt-chic-crossbody/ChatGPT Image Apr 23, 2026, 07_43_27 PM.png",
+      "/bags/tt-chic-crossbody/ChatGPT Image Apr 23, 2026, 07_43_31 PM.png",
+      "/bags/tt-chic-crossbody/ChatGPT Image Apr 23, 2026, 07_43_53 PM.png",
+      "/bags/tt-chic-crossbody/ChatGPT Image Apr 23, 2026, 07_43_58 PM.png"
+    ],
+    "variants": [
+      { "color": "Black", "image": "/bags/tt-chic-crossbody/ChatGPT Image Apr 23, 2026, 07_43_27 PM.png", "price": 1199, "originalPrice": 1499 },
+      { "color": "White", "image": "/bags/tt-chic-crossbody/ChatGPT Image Apr 23, 2026, 07_43_53 PM.png", "price": 1199, "originalPrice": 1499 }
+    ],
+    "createdAt": "2026-04-23T12:04:00.000Z"
+  },
+  {
+    "id": "bag-tt-03",
+    "name": "Classic Lock Handbag",
+    "description": "Crafted from premium PU leather with a rich textured finish. Designed with a sleek flap closure and elegant metal lock detail, it offers secure storage with timeless style—perfect for both everyday wear and special occasions.",
+    "price": 1199,
+    "originalPrice": 1599,
+    "category": "Bags",
+    "imageUrl": "/bags/tt-elegant-clutch/ChatGPT Image Apr 23, 2026, 07_42_32 PM.png",
+    "images": [
+      "/bags/tt-elegant-clutch/ChatGPT Image Apr 23, 2026, 07_42_32 PM.png",
+      "/bags/tt-elegant-clutch/ChatGPT Image Apr 23, 2026, 07_42_36 PM.png",
+      "/bags/tt-elegant-clutch/ChatGPT Image Apr 23, 2026, 07_42_52 PM.png",
+      "/bags/tt-elegant-clutch/ChatGPT Image Apr 23, 2026, 07_42_54 PM.png"
+    ],
+    "variants": [
+      { "color": "Brown", "image": "/bags/tt-elegant-clutch/ChatGPT Image Apr 23, 2026, 07_42_32 PM.png", "price": 1199, "originalPrice": 1599 },
+      { "color": "Black", "image": "/bags/tt-elegant-clutch/ChatGPT Image Apr 23, 2026, 07_42_52 PM.png", "price": 1199, "originalPrice": 1599 }
+    ],
+    "createdAt": "2026-04-23T12:05:00.000Z"
+  },
+  {
+    "id": "bag-tt-04",
+    "name": "Elegant Textured Handbag",
+    "description": "Crafted from premium PU leather with a rich embossed pattern for a sophisticated look. Designed with sturdy top handles, refined metal accents, and a stylish charm detail, it offers spacious storage and durability—perfect for elevating your everyday style with a touch of luxury.",
+    "price": 1199,
+    "originalPrice": 1499,
+    "category": "Bags",
+    "imageUrl": "/bags/tt-versatile-hobo/ChatGPT Image Apr 23, 2026, 07_42_44 PM.png",
+    "images": [
+      "/bags/tt-versatile-hobo/ChatGPT Image Apr 23, 2026, 07_42_44 PM.png",
+      "/bags/tt-versatile-hobo/ChatGPT Image Apr 23, 2026, 07_42_48 PM.png",
+      "/bags/tt-versatile-hobo/ChatGPT Image Apr 23, 2026, 07_43_21 PM.png"
+    ],
+    "variants": [
+      { "color": "Elegant Black", "image": "/bags/tt-versatile-hobo/ChatGPT Image Apr 23, 2026, 07_42_44 PM.png", "price": 1199, "originalPrice": 1499 }
+    ],
+    "createdAt": "2026-04-23T12:06:00.000Z"
+  },
+  {
+    "id": "bag-tt-05",
+    "name": "Fashion Studded Sling Bag",
+    "description": "Crafted from premium PU leather with a bold studded design for a modern, edgy look. Featuring a spacious main compartment, adjustable strap, and a matching mini pouch, it combines style and functionality—perfect for everyday outings or statement styling.",
+    "price": 1299,
+    "originalPrice": 1599,
+    "category": "Bags",
+    "imageUrl": "/bags/tt-modern-backpack/ChatGPT Image Apr 23, 2026, 07_42_40 PM.png",
+    "images": [
+      "/bags/tt-modern-backpack/ChatGPT Image Apr 23, 2026, 07_42_40 PM.png"
+    ],
+    "variants": [
+      { "color": "Studded Black", "image": "/bags/tt-modern-backpack/ChatGPT Image Apr 23, 2026, 07_42_40 PM.png", "price": 1299, "originalPrice": 1599 }
+    ],
+    "createdAt": "2026-04-23T12:07:00.000Z"
+  },
+  {
+    "id": "bag-tt-06",
+    "name": "MIN MIN Tote Handbag",
+    "description": "Crafted from premium PU leather with an elegant embossed check pattern. Designed with sturdy handles and a chic scarf detail, it offers spacious storage and everyday durability—perfect for combining style with practicality.",
+    "price": 1199,
+    "originalPrice": 1499,
+    "category": "Bags",
+    "imageUrl": "/bags/tt-stylish-tote/ChatGPT Image Apr 23, 2026, 07_43_03 PM.png",
+    "images": [
+      "/bags/tt-stylish-tote/ChatGPT Image Apr 23, 2026, 07_43_03 PM.png",
+      "/bags/tt-stylish-tote/ChatGPT Image Apr 23, 2026, 07_43_10 PM.png"
+    ],
+    "variants": [
+      { "color": "Checkered Brown", "image": "/bags/tt-stylish-tote/ChatGPT Image Apr 23, 2026, 07_43_03 PM.png", "price": 1199, "originalPrice": 1499 }
+    ],
+    "createdAt": "2026-04-23T12:08:00.000Z"
+  },
+  {
+    "id": "bag-tt-07",
+    "name": "MIN MIN Structured Handbag",
+    "description": "Crafted from premium PU leather with a refined embossed check pattern. Featuring a sturdy metal-accent handle and spacious interior, it offers durability with a polished, modern look—perfect for elevating your everyday style.",
+    "price": 1199,
+    "originalPrice": 1400,
+    "category": "Bags",
+    "imageUrl": "/bags/tt-minimalist-messenger/ChatGPT Image Apr 23, 2026, 07_43_36 PM.png",
+    "images": [
+      "/bags/tt-minimalist-messenger/ChatGPT Image Apr 23, 2026, 07_43_36 PM.png",
+      "/bags/tt-minimalist-messenger/ChatGPT Image Apr 23, 2026, 07_43_39 PM.png"
+    ],
+    "variants": [
+      { "color": "Modern Grey", "image": "/bags/tt-minimalist-messenger/ChatGPT Image Apr 23, 2026, 07_43_36 PM.png", "price": 1199, "originalPrice": 1400 }
+    ],
+    "createdAt": "2026-04-23T12:09:00.000Z"
+  },
+  {
+    "id": "bag-tt-08",
+    "name": "Classic Flap Shoulder Bag",
+    "description": "Crafted from premium PU leather with a smooth, refined finish. Designed with a sleek flap closure and structured silhouette, it offers compact storage and timeless elegance—perfect for effortless everyday style.",
+    "price": 1299,
+    "originalPrice": 1699,
+    "category": "Bags",
+    "imageUrl": "/bags/tt-sophisticated-briefcase/ChatGPT Image Apr 23, 2026, 07_43_45 PM.png",
+    "images": [
+      "/bags/tt-sophisticated-briefcase/ChatGPT Image Apr 23, 2026, 07_43_45 PM.png",
+      "/bags/tt-sophisticated-briefcase/ChatGPT Image Apr 23, 2026, 07_43_48 PM.png"
+    ],
+    "variants": [
+      { "color": "Sophisticated Black", "image": "/bags/tt-sophisticated-briefcase/ChatGPT Image Apr 23, 2026, 07_43_45 PM.png", "price": 1299, "originalPrice": 1699 }
+    ],
+    "createdAt": "2026-04-23T12:10:00.000Z"
+  },
+  {
+    "id": "bag-monogram-backpack",
+    "name": "Stylish Monogram Backpack",
+    "description": "Blends modern design with everyday practicality. Crafted from high-quality PU leather with a rich textured finish, it features a classic checkered monogram pattern that adds a premium touch. The compact yet spacious design, secure zip closure, and adjustable straps make it perfect for daily use, travel, or casual outings.",
+    "price": 1199,
+    "originalPrice": 1500,
+    "category": "Bags",
+    "imageUrl": "/bags/1/ChatGPT Image Apr 24, 2026, 03_50_17 PM.png",
+    "images": ["/bags/1/ChatGPT Image Apr 24, 2026, 03_50_17 PM.png", "/bags/1/ChatGPT Image Apr 24, 2026, 03_50_37 PM.png", "/bags/1/ChatGPT Image Apr 24, 2026, 03_51_08 PM.png"],
+    "createdAt": "2026-04-24T12:06:00.000Z"
+  },
+  {
+    "id": "bag-moschino-backpack",
+    "name": "MOSCHINO Style Backpack",
+    "description": "Offers a bold, modern look with everyday practicality. Crafted from high-quality PU leather with a soft textured finish, it features an embossed logo design that adds a premium, standout touch. Compact yet spacious, with secure zip closure and comfortable straps, it’s perfect for daily use, travel, or casual styling.",
+    "price": 1199,
+    "originalPrice": 1499,
+    "category": "Bags",
+    "imageUrl": "/bags/2/ChatGPT Image Apr 24, 2026, 03_50_47 PM.png",
+    "images": ["/bags/2/ChatGPT Image Apr 24, 2026, 03_50_47 PM.png", "/bags/2/ChatGPT Image Apr 24, 2026, 03_50_57 PM.png", "/bags/2/ChatGPT Image Apr 24, 2026, 03_51_49 PM.png"],
+    "createdAt": "2026-04-24T12:07:00.000Z"
+  },
+  {
+    "id": "bag-classic-black-backpack",
+    "name": "Classic Black Backpack",
+    "description": "Combines minimal style with everyday functionality. Made from high-quality PU leather with a textured finish, it features multiple zip compartments for organized storage and easy access. Durable, lightweight, and versatile—perfect for daily use, travel, or work while keeping your essentials secure in style.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "category": "Bags",
+    "imageUrl": "/bags/3/ChatGPT Image Apr 24, 2026, 03_51_58 PM.png",
+    "images": ["/bags/3/ChatGPT Image Apr 24, 2026, 03_51_58 PM.png", "/bags/3/ChatGPT Image Apr 24, 2026, 03_52_09 PM.png"],
+    "createdAt": "2026-04-24T12:08:00.000Z"
+  },
+  {
+    "id": "bag-min-black-backpack",
+    "name": "MIN Black Backpack",
+    "description": "Delivers a sleek, modern look with everyday practicality. Made from premium PU leather with a textured finish, it features multiple zip compartments for organized storage and quick access. Durable, lightweight, and stylish—perfect for daily use, travel, or work while keeping your essentials secure and effortlessly organized.",
+    "price": 1199,
+    "originalPrice": 1699,
+    "category": "Bags",
+    "imageUrl": "/bags/4/ChatGPT Image Apr 24, 2026, 03_52_20 PM.png",
+    "images": ["/bags/4/ChatGPT Image Apr 24, 2026, 03_52_20 PM.png", "/bags/4/ChatGPT Image Apr 24, 2026, 03_52_31 PM.png", "/bags/4/ChatGPT Image Apr 24, 2026, 03_52_39 PM.png"],
+    "createdAt": "2026-04-24T12:09:00.000Z"
+  },
+  {
+    "id": "bag-elegant-handbag",
+    "name": "Elegant Handbag",
+    "description": "Combines timeless style with everyday functionality. Crafted from premium PU leather with a soft textured finish, it features a structured silhouette, secure flap closure, and a sturdy top handle for easy carry. Compact yet spacious, it’s perfect for daily use or special occasions, adding a classy and refined touch to any outfit.",
+    "price": 400,
+    "originalPrice": 450,
+    "category": "Bags",
+    "imageUrl": "/bags/5/ChatGPT Image Apr 24, 2026, 03_53_11 PM.png",
+    "images": ["/bags/5/ChatGPT Image Apr 24, 2026, 03_53_11 PM.png", "/bags/5/ChatGPT Image Apr 24, 2026, 03_53_21 PM.png", "/bags/5/ChatGPT Image Apr 24, 2026, 03_53_27 PM.png", "/bags/5/ChatGPT Image Apr 24, 2026, 06_05_33 PM.png", "/bags/5/ChatGPT Image Apr 24, 2026, 06_05_47 PM.png"],
+    "createdAt": "2026-04-24T12:10:00.000Z"
+  },
+  {
+    "id": "bag-chic-sling-bag",
+    "name": "Chic Sling Bag",
+    "description": "Adds a soft, stylish touch to your everyday look. Crafted from premium PU leather with a fine textured finish, it features a sleek flap design and a bold embossed logo for a modern vibe. The adjustable patterned strap ensures comfort and versatility, making it perfect for daily outings, travel, or casual wear.",
+    "price": 450,
+    "originalPrice": 650,
+    "category": "Bags",
+    "imageUrl": "/bags/6/ChatGPT Image Apr 24, 2026, 03_53_35 PM.png",
+    "images": ["/bags/6/ChatGPT Image Apr 24, 2026, 03_53_35 PM.png", "/bags/6/ChatGPT Image Apr 24, 2026, 03_53_44 PM.png", "/bags/6/ChatGPT Image Apr 24, 2026, 06_11_23 PM.png"],
+    "createdAt": "2026-04-24T12:11:00.000Z"
+  },
+  {
+    "id": "bag-pink-sling-bag",
+    "name": "Elegant Pink Sling Bag",
+    "description": "Brings a soft, premium touch to your style. Crafted from high-quality PU leather with a smooth suede-like finish, it features a sleek flap design and a stylish metal logo detail for a modern look. The adjustable patterned strap adds comfort and versatility, making it perfect for daily use, outings, or special occasions.",
+    "price": 399,
+    "originalPrice": 450,
+    "category": "Bags",
+    "imageUrl": "/bags/7/ChatGPT Image Apr 24, 2026, 03_53_59 PM.png",
+    "images": ["/bags/7/ChatGPT Image Apr 24, 2026, 03_53_59 PM.png", "/bags/7/ChatGPT Image Apr 24, 2026, 03_54_08 PM.png"],
+    "createdAt": "2026-04-24T12:12:00.000Z"
+  },
+  {
+    "id": "bag-nude-shoulder-bag",
+    "name": "Elegant Nude Shoulder Bag",
+    "description": "Offers a perfect blend of minimal style and sophistication. Crafted from premium PU leather with a smooth, soft finish, it features a sleek flap design with a chic gold-tone lock for a refined look. Compact yet spacious, it’s ideal for daily outings or special occasions, adding a classy touch to any outfit.",
+    "price": 1299,
+    "originalPrice": 1699,
+    "category": "Bags",
+    "imageUrl": "/bags/8/ChatGPT Image Apr 24, 2026, 03_54_20 PM.png",
+    "images": ["/bags/8/ChatGPT Image Apr 24, 2026, 03_54_20 PM.png", "/bags/8/ChatGPT Image Apr 24, 2026, 03_55_29 PM.png"],
+    "createdAt": "2026-04-24T12:13:00.000Z"
+  },
+  {
+    "id": "bag-red-tote-bag",
+    "name": "Stylish Red Tote Bag",
+    "description": "Brings bold fashion and everyday functionality together. Crafted from high-quality textured fabric with PU leather detailing, it features a unique woven design that adds depth and standout appeal. Spacious, lightweight, and durable, it’s perfect for daily use, shopping, or outings—making a vibrant statement wherever you go.",
+    "price": 199,
+    "originalPrice": 399,
+    "category": "Bags",
+    "imageUrl": "/bags/9/ChatGPT Image Apr 24, 2026, 03_52_49 PM.png",
+    "images": ["/bags/9/ChatGPT Image Apr 24, 2026, 03_52_49 PM.png", "/bags/9/ChatGPT Image Apr 24, 2026, 03_52_57 PM.png", "/bags/9/ChatGPT Image Apr 24, 2026, 06_29_23 PM.png"],
+    "createdAt": "2026-04-24T12:14:00.000Z"
+  },
+  {
+    "id": "bag-beige-tote-bag",
+    "name": "Minimal Beige Tote Bag",
+    "description": "Combines clean design with everyday practicality. Crafted from premium PU leather with a soft textured finish, it features a spacious interior and sturdy handles for comfortable carry. Durable, lightweight, and versatile—perfect for work, shopping, or daily use while keeping your essentials organized in style.",
+    "price": 1299,
+    "originalPrice": 1499,
+    "category": "Bags",
+    "imageUrl": "/bags/10/ChatGPT Image Apr 24, 2026, 03_54_27 PM.png",
+    "images": ["/bags/10/ChatGPT Image Apr 24, 2026, 03_54_27 PM.png", "/bags/10/ChatGPT Image Apr 24, 2026, 03_55_09 PM.png", "/bags/10/ChatGPT Image Apr 24, 2026, 03_55_40 PM.png"],
+    "createdAt": "2026-04-24T12:15:00.000Z"
+  },
+  {
+    "id": "bag-hikal-grey-sling",
+    "name": "HIKAL Grey Sling Bag",
+    "description": "Blends modern texture with everyday elegance. Crafted from premium PU leather with a unique scratch-pattern finish, it features a sleek flap design and gold-tone hardware for a refined look. Compact yet spacious, with an adjustable strap for comfort—perfect for daily outings, travel, or casual styling.",
+    "price": 299,
+    "originalPrice": 450,
+    "category": "Bags",
+    "imageUrl": "/bags/11/ChatGPT Image Apr 24, 2026, 03_55_46 PM.png",
+    "images": ["/bags/11/ChatGPT Image Apr 24, 2026, 03_55_46 PM.png", "/bags/11/ChatGPT Image Apr 24, 2026, 03_55_56 PM.png"],
+    "createdAt": "2026-04-24T12:16:00.000Z"
+  },
+  {
+    "id": "cosmetic-o3-diamond",
+    "name": "O3+ Diamond Age-Targeting Facial Kit",
+    "description": "Improved skin radiance & pH balance luminous facial kit. Enriched with diamond dust to refresh and revitalize the skin. Synergizes into the skin's nano cellular matrix to rid the impurities and reveal younger, smoother, and brighter looking skin.",
+    "price": 300,
+    "originalPrice": 2850,
+    "category": "Cosmetics",
+    "imageUrl": "/facial-kits/03+ diamond/front page.png",
+    "images": ["/facial-kits/03+ diamond/front page.png", "/facial-kits/03+ diamond/ChatGPT Image Apr 24, 2026, 03_56_26 PM.png"],
+    "createdAt": "2026-04-24T15:00:00.000Z"
+  },
+  {
+    "id": "cosmetic-o3-whitening",
+    "name": "O3+ Whitening Facial Kit",
+    "description": "Professional 6-in-1 advanced whitening facial kit that brightens and unifies skin tone. Makes skin visibly youthful and radiant. Includes Cleanser, Scrub, Nourishing Cream, Hydrating Gel, Lacto Shine Cream, and D-Tan Pack.",
+    "price": 999,
+    "originalPrice": 3500,
+    "category": "Cosmetics",
+    "imageUrl": "/facial-kits/03+ whiteing/Front page.png",
+    "images": ["/facial-kits/03+ whiteing/Front page.png", "/facial-kits/03+ whiteing/ChatGPT Image Apr 24, 2026, 03_56_59 PM.png"],
+    "createdAt": "2026-04-24T15:01:00.000Z"
+  },
+  {
+    "id": "cosmetic-realaroma-mixfruits",
+    "name": "Real Aroma Mix Fruit Facial Kit",
+    "description": "Professional facial with skin advance formula featuring active fruits infusion. A unique blend of Grapes & Raspberry extracts that helps in removal of oily cynical layer from skin surface. Nourishes skin and makes it soft & supple.",
+    "price": 299,
+    "originalPrice": 795,
+    "category": "Cosmetics",
+    "imageUrl": "/facial-kits/Real Aroma mix fruit/front page.png",
+    "images": ["/facial-kits/Real Aroma mix fruit/front page.png", "/facial-kits/Real Aroma mix fruit/ChatGPT Image Apr 24, 2026, 03_56_43 PM.png"],
+    "createdAt": "2026-04-24T15:02:00.000Z"
+  },
+  {
+    "id": "cosmetic-realaroma-papaya",
+    "name": "RealAroma Papaya Facial Kit",
+    "description": "Natural rich phyto-extracts with skin advance formula. Helps to remove make-up and impurities while boosting cell renewal for a clear and even complexion. Enriched with Papaya extracts to remove tan and give an even skin tone.",
+    "price": 299,
+    "originalPrice": 795,
+    "category": "Cosmetics",
+    "imageUrl": "/facial-kits/RealAroma papaya/front page.png",
+    "images": ["/facial-kits/RealAroma papaya/front page.png", "/facial-kits/RealAroma papaya/ChatGPT Image Apr 24, 2026, 03_58_29 PM.png"],
+    "createdAt": "2026-04-24T15:03:00.000Z"
+  },
+  {
+    "id": "cosmetic-realaroma-whitening-age",
+    "name": "RealAroma Whitening Facial Kit",
+    "description": "Professional facial with nano technology and skin advance formula. Deeply penetrates the skin to remove excess sebum and give a youthful glow. Restores moisture and reduces appearance of fine lines and wrinkles.",
+    "price": 299,
+    "originalPrice": 795,
+    "category": "Cosmetics",
+    "imageUrl": "/facial-kits/RealAroma whiteing/front page.png",
+    "images": ["/facial-kits/RealAroma whiteing/front page.png", "/facial-kits/RealAroma whiteing/ChatGPT Image Apr 24, 2026, 03_57_51 PM.png"],
+    "createdAt": "2026-04-24T15:04:00.000Z"
+  },
+  {
+    "id": "cosmetic-shahnaz-diamond",
+    "name": "SHEHNAZ HUSSAIN Diamond Skin Radiance Facial Kit",
+    "description": "Timeless youth 6-in-1 facial kit with diamond dust. A powerful age control treatment that influences the tissues and promotes removal of toxins. Provides a lasting shine and makes skin clearer, fresher, and healthier.",
+    "price": 799,
+    "originalPrice": 2025,
+    "category": "Cosmetics",
+    "imageUrl": "/facial-kits/SHEHNAZ HUSSAIN/front page.png",
+    "images": ["/facial-kits/SHEHNAZ HUSSAIN/front page.png", "/facial-kits/SHEHNAZ HUSSAIN/ChatGPT Image Apr 24, 2026, 03_58_11 PM.png"],
+    "createdAt": "2026-04-24T15:05:00.000Z"
+  }
+]
