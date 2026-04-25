@@ -1,0 +1,16 @@
+{
+  "name": "trendytreasure-backend",
+  "version": "1.0.0",
+  "description": "Backend API for TrendyTreasure e-commerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["ecommerce", "api", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
